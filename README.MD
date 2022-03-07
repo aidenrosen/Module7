@@ -8,6 +8,6 @@ This program displays a draggable red circle in a panel.
 
 Clone this project and open it in an IDE of your choice (such as Eclipse or IntelliJ).  Then run the BallApp.java file.
 
-##Version requirements
+## Version requirements
 
 Minimum Java 1.8 required
